@@ -1,0 +1,513 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
+<!--[if (mso 16)]>
+    <style type="text/css">
+    a {text-decoration: none;}
+    </style>
+    <![endif]--> 
+
+<!--[if gte mso 9]>
+<xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG></o:AllowPNG>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<style>
+body {
+    -webkit-text-size-adjust: 100%;
+    image-rendering: auto;
+}
+div, table, td, p, table {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+table, table td {
+    border-collapse: collapse;
+}
+a[href^=tel] {
+    color: #000000;
+    text-decoration: none;
+}
+.appleLinks a {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* #converted-body .cta-outlook {
+ 
+} */ 
+
+@media only screen and (min-width: 600px) {
+.cta-appleOL-dt {
+    display: block !important;
+    width: 420px !important;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}
+}
+
+@media only screen and (max-width: 599px) {
+/* For Tables */
+table[class="table_100"] {
+    width: 100% !important;
+}
+.table_100 {
+    width: 100% !important;
+}
+/* For Cells */
+.td_stack_100 {
+    display: block !important;
+    width: 100% !important;
+}
+.td_stack_center_100 {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+}
+.td_stack_center_50 {
+    display: block !important;
+    width: 50% !important;
+    text-align: center !important;
+    padding: 0 !important;
+}
+.td_show {
+    display: block !important;
+    width: auto !important;
+    overflow: visible !important;
+    float: none !important;
+    max-height: inherit !important;
+    visibility: visible !important;
+}
+.td_hide {
+    display: none !important;
+    width: 0 !important;
+    overflow: hidden !important;
+    float: left !important;
+    max-height: 0 !important;
+    visibility: hidden !important;
+}
+/* For Images */
+.image_100 {
+    width: 100% !important;
+    height: auto !important;
+}
+.image_95 {
+    width: 95% !important;
+    height: auto !important;
+}
+.image_80 {
+    width: 80% !important;
+    height: auto !important;
+}
+.image_75 {
+    width: 75% !important;
+    height: auto !important;
+}
+.image_50 {
+    width: 50% !important;
+    height: auto !important;
+}
+.image_34 {
+    width: 34% !important;
+    height: auto !important;
+}
+.image_show {
+    display: block !important;
+    width: 100% !important;
+    overflow: visible !important;
+    float: none !important;
+    max-height: inherit !important;
+    visibility: visible !important;
+}
+.image_hide {
+    display: none !important;
+    width: 0 !important;
+    overflow: hidden !important;
+    float: left !important;
+    max-height: 0 !important;
+    visibility: hidden !important;
+}
+/* For Spans */
+	
+.mobile_text {
+    font-size: 18px !important;
+    color: #000000 !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+}
+/* For Rounded Corner Stack Box */
+	
+.td_stack_padding_bottom_top_16 {
+    display: block !important;
+    width: 100% !important;
+    padding-bottom: 16px !important;
+    padding-top: 16px !important;
+}
+.td_stack_padding_bottom_top_0 {
+    display: block !important;
+    width: 100% !important;
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+}
+.mobile_text_title {
+    font-size: 18px !important;
+    color: #ffffff !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+}
+.mobile_text_value {
+    font-size: 30px !important;
+    color: #ffffff !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+}
+.pad-RL5 {
+    padding-right: 5% !important;
+    padding-left: 5% !important;
+}
+.pad-T16 {
+    padding-top: 16% !important;
+}
+.pad-L12 {
+    padding-left: 12%;
+}
+.pad-L20 {
+    padding-left: 20%;
+}
+.mob-center {
+    margin: 0 auto !important;
+    text-align: center !important;
+}
+.hide {
+    display: none !important;
+}
+.w90 {
+    width: 90% !important;
+}
+.w87 {
+    width: 87% !important;
+}
+.w87 {
+    width: 87% !important;
+}
+.w-85 {
+    width: 85% !important;
+}
+.w80 {
+    width: 80% !important;
+}
+.w75 {
+    width: 75% !important;
+}
+.h30 {
+    height: 30px !important;
+}
+.h-320 {
+    height: 320px !important;
+}
+.h-270 {
+    height: 270px !important;
+}
+.h-300 {
+    height: 300px !important;
+}
+.h-180 {
+    height: 180px !important;
+}
+.h11 {
+    height: 11px !important;
+}
+}
+
+/* @media (prefers-color-scheme: dark ) {
+rect: transparent !important;
+} */
+</style>
+</head>
+
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="-webkit-text-size-adjust: none;">
+
+<!-- INVISIBLE PREVIEW TEXT START--> 
+<!--[if !mso 9]><!--> 
+<span style="display:none !important; visibility:hidden; opacity:0; color:transparent; font-size:1px; height:0; width:0;">Pearl Insurance has you fully covered in the wake of the NAR settlement.</span> 
+<!--<![endif]--> 
+<!-- INVISIBLE PREVIEW TEXT END -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+  <tr>
+    <td align="center" valign="top" bgcolor="#efefef"><table border="0" cellpadding="0" cellspacing="0" width="600" class="table_100">
+        <tr>
+          <td width="600" align="center" valign="middle" bgcolor="#00acd4"><div style="font-size:30px; line-height:30px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="30" height="30"></div></td>
+        </tr>
+        <tr>
+          <td width="600" align="center" valign="top" bgcolor="#00acd4" class="w_100" style="font-family:Arial,  sans-serif;font-size:18px;color:#1e468b;padding:0;"><img alt="Pearl Insurance Realtors Protection Plus Logo" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-1f1b0dab-3a59-438b-8085-aae9c98bbd30/1/-/-/-/-/Real%20Estate%20PP%20logo_white.png" width="300" height="" style="width: 300px; height: auto; margin: 0 auto; display: block; font-family: 'Open Sans', sans-serif; color: #ffffff; font-size: 16px;" border="0" class="image_75" /></td>
+        </tr>
+        <tr>
+          <td width="600" align="center" valign="middle" bgcolor="#00acd4"><div style="font-size:30px; line-height:30px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="30" height="30"></div></td>
+        </tr>
+        <tr>
+          <td width="600" align="center" valign="middle" bgcolor="#ffffff"><div style="font-size:40px; line-height:40px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="40" height="40"></div></td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle" bgcolor="#ffffff"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="w87">
+              <tr>
+                <td align="center" valign="middle" bgcolor="#ffffff" style="padding: 0"><table width="70%" border="0" align="center" cellpadding="0" cellspacing="0" class="w87">
+                    <tr>
+                      <td width="40" align="center" valign="middle" bgcolor="#ffffff" class="hide"><div style="font-size:40px; line-height:40px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="40" height="40"></div></td>
+                      <td align="center" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height: 22px; color:#000000; font-weight:normal; text-align: center;"><span style="font-size: 32px; line-height: 40px; color: #004b8d; font-weight: bold">You’re Still <br class="hide">
+                        Covered.</span> <br>
+                        <br>
+                        The NAR lawsuit has been settled, and we wanted to let you know—you’re still fully covered with Pearl Insurance. </td>
+                      <td width="40" align="center" valign="middle" bgcolor="#ffffff" class="hide"><div style="font-size:40px; line-height:40px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="40" height="40"></div></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td width="600" align="center" valign="middle" bgcolor="#ffffff"><div style="font-size:40px; line-height:40px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="40" height="40"></div></td>
+        </tr>
+        <!-- START MODULE 1 -->
+        <tr>
+          <td width="520" height="" align="center" bgcolor="#ffffff" style="font-family: Arial  sans-serif; padding: 0; margin: 0 auto;" class="pad-RL5"><!-- START TOP SECTION -->
+            
+            <div style="max-height:0px; background-color: #ffffff">
+              <table cellspacing="0" cellpadding="0" border="0" width="75%" bgcolor="#ffffff" style="margin: 0 auto; text-align: center; direction: rtl" align="center"  role="presentation" class="w-85">
+                <tr> 
+                  <!--[if mso]>
+			<td>
+				<v:rect stroked="f" filled="false" style="position:absolute; top: 13pt; left: 20pt;  width:300pt; height: 100pt">
+				<v:textbox inset="" style="mso-fit-shape-to-text:false;">
+					<table width="300" border="0" cellspacing="0" cellpadding="0" role="presentation" align="center" style="width:300pt; text-align: center; margin: 0 auto;  display: block; font-family: 'Open Sans', Arial, sans-serif;color:#ffffff;">
+						<tr>
+                          	<td align="center">
+					<![endif]--> 
+                  <!--[if !mso]><!-->
+                  <td width="30%" align="center" valign="middle" style="font-family: 'Open Sans', Arial, sans-serif;font-size:16px;line-height:24px; mso-line-height-rule:exactly; color:#ffffff;font-weight:normal; text-align:right;padding-top: 30px;mso-padding-alt: 40px 0 0; margin: 0 auto; direction: ltr; " class="pad-T16 td_stack_center_100"><!--<![endif]--> 
+                    <img src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-1b8ad0ee-cd4e-4369-9092-eed2aba46afd/1/-/-/-/-/policy-icon%20%281%29.png" width="96" alt="Policy Icon" style="width: 72pt; height: auto; margin: 0 0 0 40px; display: block" class="mob-center"></td>
+                  <!--[if mso]>
+				</td>
+					<!--[if mso]>
+				<td style="display:none; width:40px;">&nbsp;</td><![endif]--> 
+                  <!--[if mso]>
+				<td align="center" style="font-family: 'Open Sans', Arial, sans-serif;font-size:14px;line-height:24px;  color:#ffffff;font-weight:normal; text-align:center; padding: 0; margin: 0 auto; display: block">
+								<![endif]--> 
+                  <!--[if !mso]><!-->
+                  <td width="70%" align="center"  valign="middle" style="font-family: 'Open Sans', Arial, sans-serif;font-size:16px;line-height:24px; mso-line-height-rule:exactly; color:#ffffff;font-weight:normal; text-align:center;padding-top: 30px;  margin: 0 auto; direction: ltr" class="td_stack_center_100"><!--<![endif]--> 
+                    
+                    <strong>Our policy doesn’t have the exclusion many insurance companies have added in the wake of the settlement.</strong></td>
+                  <!--[if mso]>
+					</td>
+				</tr>
+			</table>
+		</v:textbox>
+	</v:rect>
+</td>
+	<![endif]--> 
+                </tr>
+              </table>
+            </div>
+            
+            <!-- END TOP SECTION --> 
+            <!-- START BOTTOM SECTION -->
+            
+            <div style="max-width: 520px;background:#2e9c93; margin: 0 auto; border-radius:15px;" width=""> 
+              <!--[if !mso]><!-->
+              <div style="background:#2e9c93; border-radius:15px;  height:140px;" class="h-300"> </div>
+              <!--<![endif]--> 
+              <!--[if mso]>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation" align="center" bgcolor="#ffffff" style="text-align: center; margin: 0 auto; display: block">
+						<tr>
+							<td>
+								<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" fill="true" stroke="false" fillcolor="#2e9c93" arcsize="10%" style="width:390pt; max-width:390pt; height:105pt; border-radius: 10px" class="">
+									<td style="background-color:#2e9c93; width:390pt; max-width:390pt; height:105pt;color: #2e9c93; font-size: 1; line-height:1 border-radius: 10px"></td>
+								</v:roundrect>
+							</td>
+						</tr>
+					</table>
+				<![endif]--> 
+            </div>
+            
+            <!-- END BOTTOM SECTION --></td>
+        </tr>
+        <!-- END MODULE 1 -->
+        <tr>
+          <td width="600" align="center" valign="middle" bgcolor="#ffffff"><div style="font-size:20px; line-height:20px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="20" height="20"></div></td>
+        </tr>
+        <!-- START MODULE 2 -->
+        <tr>
+          <td width="520" height="" align="center" bgcolor="#ffffff" style="font-family: Arial  sans-serif; padding: 0; margin: 0 auto;" class="pad-RL5"><!-- START TOP SECTION -->
+            
+            <div style="max-height:0px; background-color: #ffffff">
+              <table cellspacing="0" cellpadding="0" border="0" width="70%" bgcolor="#ffffff" style="margin: 0 auto; text-align: center" align="center"  role="presentation" class="w-85">
+                <tr> 
+                  <!--[if mso]>
+		<td>
+			<v:rect stroked="f" filled="false" style="position:absolute; top: 13pt; left: 20pt;  width:300pt;">
+				<v:textbox inset="" style="mso-fit-shape-to-text:false;">
+					<table width="300" border="0" cellspacing="0" cellpadding="0" role="presentation" align="center" style="width:300pt; text-align: center; margin: 0 auto;  display: block; font-family: 'Open Sans', Arial, sans-serif;color:#ffffff;">
+						<tr>
+							<td align="center" style="font-family: 'Open Sans', Arial, sans-serif;font-size:14px;line-height:24px;  color:#ffffff;font-weight:normal; text-align:center; padding: 0; margin: 0 auto; display: block">
+								<![endif]--> 
+                  <!--[if !mso]><!-->
+                  <td align="center" style="font-family: 'Open Sans', Arial, sans-serif;font-size:16px;line-height:24px; mso-line-height-rule:exactly; color:#ffffff;font-weight:normal; text-align:center;padding-top: 30px;  margin: 0 auto; display: block" class="pad-T16"><!--<![endif]--> 
+                    
+                    <strong>If something unexpected happens and you’re not under contract, you’re still covered. Don’t sweat&nbsp;it.</strong></td>
+                  <!--[if mso]>
+											</td>			
+										</tr>
+									</table>
+								</v:textbox>
+							</v:rect>
+						</td>
+					<![endif]--> 
+                </tr>
+              </table>
+            </div>
+            
+            <!-- END TOP SECTION --> 
+            <!-- START BOTTOM SECTION -->
+            
+            <div style="max-width: 520px;background:#004b8d; margin: 0 auto; border-radius:15px;" width=""> 
+              <!--[if !mso]><!-->
+              <div style="background:#004b8d; border-radius:15px;  height:110px;" class="h-180"> </div>
+              <!--<![endif]--> 
+              <!--[if mso]>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation" align="center" bgcolor="#ffffff" style="text-align: center; margin: 0 auto; display: block">
+					<tr>
+						<td>
+							<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" fill="true" stroke="false" fillcolor="#004b8d" arcsize="10%" style="width:390pt; max-width:390pt; height:72.5pt; border-radius: 10px" class="">
+								<td style="background-color:#004b8d; width:390pt; max-width:390pt; height:72.5pt;color: #004b8d; font-size: 1; line-height:1 border-radius: 10px">
+								</td>
+							</v:roundrect>
+						</td>
+					</tr>
+				</table>
+				<![endif]--> 
+            </div>
+            
+            <!-- END BOTTOM SECTION --></td>
+        </tr>
+        <!-- END MODULE 2 -->
+        <tr>
+          <td width="600" align="center" valign="middle" bgcolor="#ffffff"><div style="font-size:20px; line-height:20px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="20" height="20"></div></td>
+        </tr>
+        <!-- START MODULE 3 -->
+        <tr>
+          <td width="520" height="" align="center" bgcolor="#ffffff" style="font-family: Arial  sans-serif; padding: 0; margin: 0 auto;" class="pad-RL5"><!-- START TOP SECTION -->
+            
+            <div style="max-height:0px; background-color: #ffffff">
+              <table cellspacing="0" cellpadding="0" border="0" width="70%" bgcolor="#ffffff" style="margin: 0 auto; text-align: center" align="center"  role="presentation" class="w-85">
+                <tr> 
+                  <!--[if mso]>
+		<td>
+			<v:rect stroked="f" filled="false" style="position:absolute; top: 13pt; left: 20pt;  width:300pt; height: 150pt">
+				<v:textbox inset="" style="mso-fit-shape-to-text:false;">
+					<table width="300" border="0" cellspacing="0" cellpadding="0" valign="middle" role="presentation" align="center" style="width:300pt; text-align: center; margin: 0 auto;  display: block; font-family: 'Open Sans', Arial, sans-serif;color:#000000;">
+						<tr>
+							<td align="center" style="font-family: 'Open Sans', Arial, sans-serif;font-size:16px;line-height:24px; mso-line-height-rule:exactly; color:#000000;font-weight:normal; text-align:center; padding: 0;  margin: 0 auto;">
+								<![endif]--> 
+                  <!--[if !mso]><!-->
+                  <td align="center" style="font-family: 'Open Sans', Arial, sans-serif;font-size:16px;line-height:24px; mso-line-height-rule:exactly; color:#000000;font-weight:normal; text-align:center; padding-top: 30px;  margin: 0 auto; display: block" class="pad-T16"><!--<![endif]--> 
+                    <span style="font-size: 24px; font-weight: bold">Questions?</span> <br>
+                    <br>
+                    Give us a call at <a href="tel:8554650200" style="color:#000000; text-decoration: none">(855) 465-0200</a> or <br class="hide">
+                    schedule an appointment with one of <br class="hide">
+                    our knowledgeable representatives.
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0"  align="center" class="mobile-button-container">
+                      <tr>
+                        <td align="center" style="padding-top: 20px; mso-padding-alt: 11pt 0 0" class="pad-L12"><table border="0" cellspacing="0" cellpadding="0" bgcolor="#95cc36" align="left" style="webkit-appearance: button; margin: 0 auto; width: 420px; height: 60px" width="420" height="60" class="w90 cta-outlook">
+                            <tr>
+                              <td align="center"  bgcolor="#ffffff" width="420" height="60" style=" background-color: #ffffff;border-radius: 10px; box-shadow: 0 4px 8px 0 #000033, 0 6px 20px 0 #000030;width: 420px; height: 60px" class="w90" id=""><a href="https://outlook.office365.com/owa/calendar/BILConsult1@pearlcompanies.onmicrosoft.com/bookings/" target="_blank" style="font-size: 24px;line-height: 32px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; color: #004b8d; text-decoration: none; background-color: #ffffff; " class="">Schedule Now</a></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                    </table></td>
+                  <!--[if mso]>
+											</td>			
+										</tr>
+									</table>
+								</v:textbox>
+							</v:rect>
+						</td>
+					<![endif]--> 
+                </tr>
+              </table>
+            </div>
+            
+            <!-- END TOP SECTION --> 
+            <!-- START BOTTOM SECTION -->
+            
+            <div style="max-width: 520px;background:#95cc36; margin: 0 auto; border-radius:15px;" width=""> 
+              <!--[if !mso]><!-->
+              <div style="background:#95cc36; border-radius:15px;  height:270px;" class="h-320"> </div>
+              <!--<![endif]--> 
+              <!--[if mso]>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation" align="center" bgcolor="#ffffff" style="text-align: center; margin: 0 auto; display: block">
+						<tr>
+							<td>
+								<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" fill="true" stroke="false" fillcolor="#95cc36" arcsize="10%" style="width:390pt; max-width:390pt; height:202.5pt; border-radius: 10px" class="">
+									<td style="background-color:#95cc36; width:390pt; max-width:390pt; height:202.5pt;color: #95cc36; font-size: 1; line-height:1 border-radius: 10px">
+									</td>
+								</v:roundrect>
+							</td>
+						</tr>
+					</table>
+				<![endif]--> 
+            </div>
+            
+            <!-- END BOTTOM SECTION --></td>
+        </tr>
+        
+        <!-- END MODULE 3 -->
+        <tr>
+          <td width="600" align="center" valign="middle" bgcolor="#ffffff"><div style="font-size:40px; line-height:40px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="40" height="40"></div></td>
+        </tr>
+        <tr>
+          <td height="" align="center" bgcolor="#ffffff" style="font-family: Arial  sans-serif; padding: 0;"><img alt="Pearl Insurance |RE/Max Approved Supplier Partner Logo" src="https://cdn-forpci26.actonsoftware.com/acton/attachment/18393/f-33eb9aec-ec58-43a6-acb1-aa8146733643/1/-/-/-/-/PI-subsidiary-Remax-logos.png" width="422" height="auto" style="width: 422px; height: auto; margin: 0 auto; display: block; font-family: 'Open Sans', sans-serif; color: #000; font-size: 16px; margin: 0 auto;" border="0" class="image_95"></td>
+        </tr>
+        <tr>
+          <td width="600" align="center" valign="middle" bgcolor="#ffffff"><div style="font-size:40px; line-height:40px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="40" height="40"></div></td>
+        </tr>
+        <tr>
+          <td width="600" align="center" valign="middle" bgcolor="#28b3d6"><div style="font-size:40px; line-height:40px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="40" height="40"></div></td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle" bgcolor="#28b3d6" style="padding-bottom: 45px"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="w87">
+              <tr>
+                <td align="center" valign="middle" bgcolor="#28b3d6"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="w87">
+                    <tr>
+                      <td width="50" align="center" valign="middle" bgcolor="#28b3d6" class="hide"><div style="font-size:40px; line-height:40px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="40" height="40"></div></td>
+                      <td align="center" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height: 14px; color:#2d2b25; font-weight:normal; text-align: center; "><strong>Pearl Insurance</strong> <br>
+                        {{Account.BIZ_ADDRESS}} <br>
+                        <br>
+                        {{={{Pearl ID}}|}} <br>
+                        241851-1A-EO-E <br>
+                        <br>
+                        Be sure to add <a>emailmarketing@pearlinsurance.com</a> to<br />
+                        the Safe&nbsp;Sender List in your email program. <br>
+                        <br>
+                        <a href="http://info.membercoverage.com/acton/rif/{{Env.AccountId}}/{{Env.MsgId}}/-/{{Env.RecId}}/{{Env.SrcId}}/zout"
+                        style="color: #333333; text-decoration: none" class="text-link"
+                        target="_blank">Unsubscribe</a></td>
+                      <td width="50" align="center" valign="middle" bgcolor="#28b3d6" class="hide"><div style="font-size:40px; line-height:40px; margin:0; padding:0;"><img style="display:block; border:0px; margin:0px auto;" src="https://info.membercoverage.com/cdnr/forpci26/acton/attachment/18393/f-33555244-7df3-4d63-8cf9-01d862b0ec06/1/-/-/-/-/spacer.gif" width="40" height="40"></div></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</body>
+</html>
